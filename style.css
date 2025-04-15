@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    background-color: #201f25;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+    margin-bottom: 5rem;
+
+}
+
+.navbar h1 {
+    color: rgb(158, 194, 0);
+    background-color: transparent;
+}
+
+.presentacion {
+    text-align: justify;
+    margin: 20px;
+}
+
+.presentacion p,
+h2 {
+    margin: 1rem;
+}
+
+
+/* rgb(158, 194, 0) */
